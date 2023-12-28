@@ -59,7 +59,7 @@ export function Editor() {
             <Image src={'/dogwifhat.png'} alt="dogwifhat" width={240} height={240} />
             <div className="flex flex-col items-center space-y-5">
               <h1 className="text-6xl font-bold">dogwifhat.me</h1>
-              <h2 className="font-medium">Add a hat to your PFP and raid to Valhalla</h2>
+              <h2 className="font-medium">Add a hat to your PFP and raid to Valhalla wif us</h2>
             </div>
           </div>
         </div>
