@@ -39,7 +39,7 @@ const RotateRightIcon = () => (
     setPosition(position);
   };
 
-  const handleRotation = (newRotation) => {
+  const handleRotation = (newRotation: number) => {
     setRotation(newRotation);
 };
 
