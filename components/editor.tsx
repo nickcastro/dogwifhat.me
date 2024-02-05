@@ -117,10 +117,10 @@ const RotateRightIcon = () => (
         </div>
           
         <div className="rotation-controls" style={{ marginTop: '25px'}}>
-          <button onClick={() => handleRotation(rotation - 10)} title="Rotate Left">
+          <button onClick={() => handleRotation(rotation - 5)} title="Rotate Left">
             <RotateLeftIcon />
           </button>
-          <button onClick={() => handleRotation(rotation + 10)} title="Rotate Right">
+          <button onClick={() => handleRotation(rotation + 5)} title="Rotate Right">
             <RotateRightIcon />
           </button>
 
